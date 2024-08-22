@@ -16,6 +16,6 @@ Authors:
 Renan Araujo
 
 Acknowledgements:
-The project structure was took from the study based by Alexander Hipp, and you can deep dive on his study on the
+The project structure was took from the study by Alexander Hipp, and you can deep dive on his study on the following link:
 
 https://github.com/AlexanderHipp/airbnb-seattle-udacity-project/blob/master/airbnb-sesattle-udacity-project.ipynb
